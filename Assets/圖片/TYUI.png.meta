@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bdbfe5d12c5c69e48b351d4734458553
+guid: 3b872a8d9b6f2b4469e26c105e1051d5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_0
+      name: TYUI_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece2144201d88c84ba3876fac39a57be
-      internalID: -1071892867
+      spriteID: 097d5d2a47901d44b832a63a5c097506
+      internalID: -1839940458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_1
+      name: TYUI_1
       rect:
         serializedVersion: 2
-        x: 165
+        x: 159
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f73695ad3d4c14945b724e8cb62ea196
-      internalID: 1190704634
+      spriteID: 46bfd164e91397943aee56dfc3d31f3b
+      internalID: -182315631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_2
+      name: TYUI_2
       rect:
         serializedVersion: 2
-        x: 330
+        x: 318
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d71b153e1277b544a7d509acb634aa2
-      internalID: 1342180566
+      spriteID: 1e2e96c0bc16c684a9ab16a6b6a5d017
+      internalID: -1391149937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_3
+      name: TYUI_3
       rect:
         serializedVersion: 2
-        x: 495
+        x: 477
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78056e3617fd68348a40236cede135b0
-      internalID: -995933220
+      spriteID: 8003f05c16fb8b4428a84a80316e26ef
+      internalID: -273975144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_4
+      name: TYUI_4
       rect:
         serializedVersion: 2
-        x: 660
+        x: 636
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d68aa0498d526af4f9bbdb3ba544fba6
-      internalID: -2011765568
+      spriteID: d768fb846a59d3240b35ffe27874fcbe
+      internalID: 1569992544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_5
+      name: TYUI_5
       rect:
         serializedVersion: 2
-        x: 825
+        x: 795
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e9040833e0c158499054df13bda9b14
-      internalID: -1534581164
+      spriteID: be925fbf98bfe304689f5214af9aa205
+      internalID: -1584641806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_6
+      name: TYUI_6
       rect:
         serializedVersion: 2
-        x: 990
+        x: 954
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a431abcfd0460f246b8a8f694a54f528
-      internalID: -8767723
+      spriteID: a77b27c21c2d59f43a4c25a169517342
+      internalID: -1119273870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_7
+      name: TYUI_7
       rect:
         serializedVersion: 2
-        x: 1155
+        x: 1113
         y: 0
-        width: 165.5
-        height: 143
+        width: 159.875
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,8 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 198110ccb9a4dd546b0f0ece56164c4d
-      internalID: 1800136125
+      spriteID: be486bb102a99a74c8706ee0f5dc8eda
+      internalID: -967881956
       vertices: []
       indices: 
       edges: []
@@ -288,14 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Necromancer_creativekind-Sheet_0: -1071892867
-      Necromancer_creativekind-Sheet_1: 1190704634
-      Necromancer_creativekind-Sheet_2: 1342180566
-      Necromancer_creativekind-Sheet_3: -995933220
-      Necromancer_creativekind-Sheet_4: -2011765568
-      Necromancer_creativekind-Sheet_5: -1534581164
-      Necromancer_creativekind-Sheet_6: -8767723
-      Necromancer_creativekind-Sheet_7: 1800136125
+      TYUI_0: -1839940458
+      TYUI_1: -182315631
+      TYUI_2: -1391149937
+      TYUI_3: -273975144
+      TYUI_4: 1569992544
+      TYUI_5: -1584641806
+      TYUI_6: -1119273870
+      TYUI_7: -967881956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
